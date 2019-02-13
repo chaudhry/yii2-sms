@@ -1,5 +1,5 @@
 {
-    "name": "vendor/yii2-sms",
+    "name": "chaudhry/yii2-sms",
     "description": "Send SMS using different SMS Services",
     "type": "library",
     "require": {
