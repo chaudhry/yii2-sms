@@ -6,7 +6,7 @@
  * Time: 12:33 AM
  */
 
-namespace ems\common\components\sms\services;
+namespace sms\services;
 
 
 use yii\web\HttpException;

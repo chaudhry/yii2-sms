@@ -1,5 +1,5 @@
 <?php
-namespace ems\common\components\sms\exceptions;
+namespace sms\exceptions;
 /**
  * Created by PhpStorm.
  * User: ravindra

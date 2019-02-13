@@ -6,7 +6,7 @@
  * Time: 10:10 PM
  */
 
-namespace ems\common\components\sms\services;
+namespace sms\services;
 
 
 interface IService

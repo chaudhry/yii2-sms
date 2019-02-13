@@ -1,7 +1,7 @@
 <?php
-namespace ems\common\components\sms;
+namespace chaudhry\sms;
 
-use ems\common\components\sms\services\IService;
+use sms\services\IService;
 use Yii;
 /**
  * Created by PhpStorm.

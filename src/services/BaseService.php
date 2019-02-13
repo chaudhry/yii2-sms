@@ -6,7 +6,7 @@
  * Time: 11:15 PM
  */
 
-namespace ems\common\components\sms\services;
+namespace sms\services;
 use Yii;
 
 abstract class BaseService implements IService

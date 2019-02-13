@@ -6,7 +6,7 @@
  * Time: 10:00 PM
  */
 
-namespace ems\common\components\sms\services;
+namespace sms\services;
 
 
 use yii\httpclient\Client;
